@@ -116,5 +116,5 @@ If you're building something in that space and want a collaborator who understan
 ## Contact
 
 - **LinkedIn**: [michelle-dkwe](https://www.linkedin.com/in/michelle-dkwe/)
-- **Email**: `michelle.dkwe@mail.com`
+- **Email**: `michelle.dkwe@gmail.com`
 - **Portfolio**: coming soon
