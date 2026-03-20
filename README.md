@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Michelle D. Kwetcheu</h2>
-<h5 align="center">Energy engineer building data-driven tools for smarter energy decisions.</h5>
+<h5 align="center">Energy engineer building data-driven tools for better energy decision-making.</h5>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Paris-FR-1a1a18?style=flat-square&logo=googlemaps&logoColor=white" alt="Paris, France" />
@@ -21,6 +21,7 @@ My work is driven by a growing interest in the role of data and software in maki
 
 <p align="align">
   Right now, I’m building <strong>Papaya</strong> — a structured database of energy data sources designed to help people find, assess, and use the right energy information faster.
+
 </p>
 
 <p align="align">
