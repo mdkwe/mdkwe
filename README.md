@@ -28,7 +28,6 @@ My work is driven by a growing interest in the role of data and software in maki
   Long term, I want to contribute to more locally adapted energy systems by strengthening the information layer that supports better design, financing, and infrastructure development, especially in underserved regions.
 </p>
 
-
 ---
 
 ## Current focus
@@ -74,7 +73,7 @@ My work is driven by a growing interest in the role of data and software in maki
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square)](https://ui.shadcn.com/)
 
-### AI / APIs
+### AI
 [![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square)](https://www.anthropic.com/api)
 [![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-10A37F?style=flat-square)](https://platform.openai.com/)
 
@@ -91,8 +90,6 @@ My work is driven by a growing interest in the role of data and software in maki
 ## What I'm looking to collaborate on
 
 I’m especially interested in projects that use data, AI, or software to make energy systems easier to understand, navigate, or invest in.
-
-That includes:
 
 If you're building in that space and want a collaborator who understands both the systems and the software, feel free to reach out.
 
